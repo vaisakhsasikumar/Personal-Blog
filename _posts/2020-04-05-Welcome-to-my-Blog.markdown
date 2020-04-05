@@ -1,9 +1,5 @@
 ---
-layout: post
-title:  "Welcome to my Blog"
-description: Introduction to my blog
-date:   2020-04-23 21:03:36 +0530
-categories: 
+published: false
 ---
 
 `>whoami`
