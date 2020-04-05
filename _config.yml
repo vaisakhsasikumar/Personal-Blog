@@ -1,4 +1,4 @@
-title: Texture Theme
+title: Mohammed Farhan | Cybersecurity Blog
 author: Mohammed Farhan
 email: mohammedfarhan.kn@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -19,7 +19,7 @@ texture:
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
-  showPicker: true
+  showPicker: false
 
   # generate social links in footer
   social_links:
