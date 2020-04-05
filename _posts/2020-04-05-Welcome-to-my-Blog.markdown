@@ -6,7 +6,7 @@ date:   2020-04-23 21:03:36 +0530
 categories: 
 ---
 
-'>whoami'
+`>whoami`
 My name is farhan and I work at synopsys.
 
 
