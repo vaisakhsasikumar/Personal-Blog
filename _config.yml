@@ -19,7 +19,7 @@ texture:
   showNav: true
   showPicker: false
 
-  # generate social links in footer
+ # generate social links in footer
   social_links:
     twitter: farhankn
     github:  farhankn
