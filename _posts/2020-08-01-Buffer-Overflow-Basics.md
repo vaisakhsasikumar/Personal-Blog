@@ -71,11 +71,11 @@ Run Mona to determine files available for use as JMP ESP call. This command allo
 ```
 
 
-![N|Solid](https://raw.githubusercontent.com/farhankn/farhankn.github.io/master/assets/buf1.png)
-![N|Solid](https://raw.githubusercontent.com/farhankn/farhankn.github.io/master/assets/buf2.png)
-![N|Solid](https://raw.githubusercontent.com/farhankn/farhankn.github.io/master/assets/buf3.png)
-![N|Solid](https://raw.githubusercontent.com/farhankn/farhankn.github.io/master/assets/buf4.png)
-![N|Solid](https://raw.githubusercontent.com/farhankn/farhankn.github.io/master/assets/buf5.png)
+![Image](https://raw.githubusercontent.com/farhankn/farhankn.github.io/master/assets/buf1.png)
+![Image](https://raw.githubusercontent.com/farhankn/farhankn.github.io/master/assets/buf2.png)
+![Image](https://raw.githubusercontent.com/farhankn/farhankn.github.io/master/assets/buf3.png)
+![Image](https://raw.githubusercontent.com/farhankn/farhankn.github.io/master/assets/buf4.png)
+![Image](https://raw.githubusercontent.com/farhankn/farhankn.github.io/master/assets/buf5.png)
 
 
 ## Final Code with Padding and NOP Buffer
