@@ -11,10 +11,14 @@ permalink: /about/
 
 Hi, I am Vaishakh. 
 
-Full-stack developer with 4+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack developer.
+Full-stack developer with 4+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. 
+
+Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack developer.
+
 # Current Employment
 
 -   SAS Research and Development
+
     • Designed a single-page application following Agile practices.
     
     • Worked on creation of custom Docker container images and integration of Spring boot application.
@@ -35,6 +39,7 @@ Full-stack developer with 4+ years of hands-on experience designing, developing,
 
 
 -   Tata Consultancy Services R&D
+    
     • Primarily responsible for the development and maintenance of a Java-based Web application.
     
     • Prepare documentation and work with the domain team for production deployment and data migration.
@@ -53,6 +58,19 @@ Full-stack developer with 4+ years of hands-on experience designing, developing,
 
 2013-2017 
 :   **B.Tech, Computer Science**; Federal Institute of Science and Technology (FISAT)
+
+
+# Interests and extra-curricular activity
+
+-  RECEIVED 3RD RUNNER UP IN SAS INTERNAL BUG BOUNTY
+
+-  WINNER OF RISING STAR AWARD AND TCS INNOVATION PRIDE AWARD FOR EXCELLENT PERFORMANCE (TCS)
+
+-  MEMBER OF LEADERSHIP TEAM (ACM Professional Chapter Pune, India)
+
+-  SPEAKER FOR WEB DESIGN AND CAREER ADVICE WORKSHOPHackathons India (Federal Institute of Science and Technology Kerala, India)
+
+-  FINALISTS IN MORE THAN 5+ HACKATHONS HELD ACROSS INDIA.
 
 
 ## Notable Projects and Achievements
@@ -120,17 +138,6 @@ Full-stack developer with 4+ years of hands-on experience designing, developing,
 -   **Languages** English, Malayalam, Hindi
 
 
-# Interests and extra-curricular activity
 
--  RECEIVED 3RD RUNNER UP IN SAS INTERNAL BUG BOUNTY
 
--  WINNER OF RISING STAR AWARD AND TCS INNOVATION PRIDE AWARD FOR EXCELLENT PERFORMANCE (TCS)
-
--  MEMBER OF LEADERSHIP TEAM (ACM Professional Chapter Pune, India)
-
--  SPEAKER FOR WEB DESIGN AND CAREER ADVICE WORKSHOPHackathons India (Federal Institute of Science and Technology Kerala, India)
-
--  FINALISTS IN MORE THAN 5+ HACKATHONS HELD ACROSS INDIA.
-
-# References
 
