@@ -40,20 +40,17 @@ Full-stack developer with 4+ years of hands-on experience designing, developing,
 :   **B.Tech, Computer Science**; Federal Institute of Science and Technology (FISAT)
 
 
-## Academic Qualifications
-
--   
--   
-
 ## Notable Projects and Achievements
 
 
 
 -  **Industry Project** *'SAS Business Orchestration Services (BOSS)'*
 
-   • SAS Business Orchestration Services can link and manage numerous internal and third-party data sources to build
+    • SAS Business Orchestration Services can link and manage numerous internal and third-party data sources to build
     a holistic customer profile and correctly enrich and translate data to gain real-time insights instantly.
+    
     • It enables the prevention of fraud losses while minimizing impact to the customer experience.
+    
     • Technical Environment : Springboot, Java, PostgreSQL, Apache Camel, Hibernate, Azure, Kubernetes, Docker, SAS
     Viya 4, Kafka
     
@@ -61,41 +58,42 @@ Full-stack developer with 4+ years of hands-on experience designing, developing,
 
     • This is an Angular UI component infrastructure and Design components library developed in-house and consumed
     by various SAS Products.
+    
     • Technical Environment : Angular, Cucumber, Jasmine, Protractor, Typescript
   
- -  **Industry Project** *'TCS PREMAP: A Web Platform to assist Industrial Process Designers'*
+-  **Industry Project** *'TCS PREMAP: A Web Platform to assist Industrial Process Designers'*
 
     • This Web Platform helps an industrial process designer to develop and design complicated ontology’s workflowbased
     systems to execute complex calculations/simulations.
+    
     • Technical Environment : Springboot, Java, PostgreSQL, Angular, ExtJS, JPA, JBOSS EAP, JMeter
 
- -  **Industry Project** *'TCS PREMAP Bootstrapper'*
+-  **Industry Project** *'TCS PREMAP Bootstrapper'*
 
     • This is capable of building docker images based on the user inputs and deploying them to the popular cloud platforms
     and local machines.
+    
     • Technical Environment : Springboot, Java, PostgreSQL, Docker, Azure Cloud
     
-  -  **Main Project** *'Academic Project: Real-time Tweet Analysis to determine the popularity of TV Dramas'*
+-  **Main Project** *'Academic Project: Real-time Tweet Analysis to determine the popularity of TV Dramas'*
 
-    • A real-time application for monitoring the tweets of the TV Shows and performing trend analysis using Stanford
+    A real-time application for monitoring the tweets of the TV Shows and performing trend analysis using Stanford
     Core NLP.
-    • Streamed real-time tweets and performed Sentiment Analysis using Apache Spark and Twython.
-    • Technical Environment : Apache Spark, Java, PostgreSQL, Stanford Core NLP
+    
+    Streamed real-time tweets and performed Sentiment Analysis using Apache Spark and Twython.
+    
+    Technical Environment : Apache Spark, Java, PostgreSQL, Stanford Core NLP
     
 -   **Mini Project** *'Media Bias Monitoring'*
 
-    Media Bias Monitoring system is a Web Based application built on
-    Python and Django for monitoring the output of various print and
-    broadcast media using KNN Classification and Other Machine Learning
-    Algorithms.
+    Media Bias Monitoring system is a Web Based application built on Python and Django for monitoring the output of various print and
+    broadcast media using KNN Classification and Other Machine Learning Algorithms.
 
 -   **Other Projects** *'Projects developed for Hackathons'*
 
-    - Developed an E-Commerce application for small scale industries to
-    sell their products, as a part of Rajasthan Hackathon - Developed a
-    Tweet based Financial Analyzer which classifies tweets based on
-    their travel behavior and investment behavior, as a part of
-    ZafinTech Hackathon.
+    • Developed an E-Commerce application for small scale industries to sell their products, as a part of Rajasthan Hackathon.
+    
+    •  Developed a Tweet based Financial Analyzer which classifies tweets based on their travel behavior and investment behavior, as a part of ZafinTech Hackathon.
 
 # Technical and Personal skills
 
