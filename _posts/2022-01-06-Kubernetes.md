@@ -6,11 +6,8 @@ date:   2021-01-06 10:03:36 +0530
 categories: containers
 ---
 
-# kube_challenge
-2021 Digitalocean Kubernetes Challenge
 
-
-This challenge includes Deploying an internal container registry using Digitalocean Kubernetes and Harbor.
+This Post includes Deploying an internal container registry using Digitalocean Kubernetes and Harbor. This is one of the best ways to get started to learn about Containers, Helm and Harbor
 
 ## Here are few articles to have a TL-DR about Kubernetes
 
