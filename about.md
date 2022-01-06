@@ -6,51 +6,39 @@ permalink: /about/
 
 ## About
 
-> Sharing knowledge is the most fundamental act of friendship. Because it is a way you can give something without loosing something. Richard Stallman.
+> We don't know all the answers. If we knew all the answers we'd be bored, wouldn't we? We keep looking, searching, trying to get more knowledge.
 
 
-Hi, I am farhan. 
-I have a strong passion for Computer Security and Applied Security Research. As a security Enthusiast, I have 4.5 years of experience in Application Security including development of secure Web Applications.As an experienced application security practitioner, I have conducted 250+ assessments in my organisation and delivered training programs in the Cybersecurity Ecosystem.
-
+Hi, I am Vaishakh. 
+Full-stack developer with 4+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack developer.
 # Current Employment
 
--   
+-   SAS Research and Development
+    • Designed a single-page application following Agile practices.
+    • Worked on creation of custom Docker container images and integration of Spring boot application.
+    • Identified multiple security issues during the Bug Bounty program.
+    • Developed an Angular 6 application with HTML5, SASS , and Typescript.
+    • Used Protractor to perform E2E testing for Angular Application
+    • Setup Continuous Integration with Jenkins to set up smooth workflows.
+    • Programmed data transformer for converting data and fed into Queue using Camel.
+    • Extensively used MVC, Factory, Delegate , and Singleton design patterns.
+    • Implemented Cucumber for behavioral testing of application
 
 
--   
+-   Tata Consultancy Services R&D
+    • Primarily responsible for the development and maintenance of a Java-based Web application.
+    • Prepare documentation and work with the domain team for production deployment and data migration.
+    • Authored feature approach and usage documentation and Created Sprint Plans.
+    • Redesigned data migration strategies to perform the migration.
+    • Introduced batch processing to optimize memory utilization in the existing implementation.
+    • Devised and Implemented cloud migration strategy for Container services in Azure cloud and AWS
 
-# Extra Curricular
-
--   Built a client dashboard on Django that Extracts data from
-    penetration testing reports and generates Vulnerability Data and
-    Analytics to Identify Project Performance and Risks
-
--   Presented a Session on explaining OAuth 2.0, Pentest Approach and
-    Test Cases
-
--   Highest Individual Scorer of the Synopsys Techfair CTF Conducted
-    across the globe.
-
--   Received multiple Client Appreciations on insights and
-    identification of Business Critical Applications from Finance and
-    Logistics Sector
-
--   Contribution to the Confluence Knowledge-base on Web Application
-    Pentest, Architecture Review Analysis and Cloud Security.
 
 # Education
 
 2013-2017 
 :   **B.Tech, Computer Science**; Federal Institute of Science and Technology (FISAT)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 ## Academic Qualifications
 
@@ -59,28 +47,41 @@ I have a strong passion for Computer Security and Applied Security Research. As 
 
 ## Notable Projects and Achievements
 
--   **Online Security Platforms** *'Security Platforms'*
 
-    - Active Participant on BugCrowd, HackerOne, Integriti and other Bug
-    bounty Platforms - Hacker Level in HacktheBox.eu - Multiple Badges
-    in AttackDefense Labs
 
--   **IOT Secuirty Research Project** *'A Vulnerable IoT Platform and
-    Device'*
+-  **Industry Project** *'SAS Business Orchestration Services (BOSS)'*
 
-    • Devised a vulnerable IoT device using RFID, Raspberry Pi and
-    Demonstrated its potential Exploits. • A new security testing
-    mechanism and strategy for IoT testing was devised using this model
-    and has implemented on the Organization
+   • SAS Business Orchestration Services can link and manage numerous internal and third-party data sources to build
+    a holistic customer profile and correctly enrich and translate data to gain real-time insights instantly.
+    • It enables the prevention of fraud losses while minimizing impact to the customer experience.
+    • Technical Environment : Springboot, Java, PostgreSQL, Apache Camel, Hibernate, Azure, Kubernetes, Docker, SAS
+    Viya 4, Kafka
+    
+-  **Industry Project** *'SAS Angular Nexus Commons Library'*
 
--   **Research and Main Project** *'Machine Learning Project to Analyse
-    and Compare False Positives from Automated Scanners'*
+    • This is an Angular UI component infrastructure and Design components library developed in-house and consumed
+    by various SAS Products.
+    • Technical Environment : Angular, Cucumber, Jasmine, Protractor, Typescript
+  
+ -  **Industry Project** *'TCS PREMAP: A Web Platform to assist Industrial Process Designers'*
 
-    • Analysis conducted using a large number of Triage notes from
-    Different Autoscan Engines. • Able to analyse false positives from
-    the findings of different automates Scanners allowing Pentesters to
-    reduce SLA in triaging
+    • This Web Platform helps an industrial process designer to develop and design complicated ontology’s workflowbased
+    systems to execute complex calculations/simulations.
+    • Technical Environment : Springboot, Java, PostgreSQL, Angular, ExtJS, JPA, JBOSS EAP, JMeter
 
+ -  **Industry Project** *'TCS PREMAP Bootstrapper'*
+
+    • This is capable of building docker images based on the user inputs and deploying them to the popular cloud platforms
+    and local machines.
+    • Technical Environment : Springboot, Java, PostgreSQL, Docker, Azure Cloud
+    
+  -  **Main Project** *'Academic Project: Real-time Tweet Analysis to determine the popularity of TV Dramas'*
+
+    • A real-time application for monitoring the tweets of the TV Shows and performing trend analysis using Stanford
+    Core NLP.
+    • Streamed real-time tweets and performed Sentiment Analysis using Apache Spark and Twython.
+    • Technical Environment : Apache Spark, Java, PostgreSQL, Stanford Core NLP
+    
 -   **Mini Project** *'Media Bias Monitoring'*
 
     Media Bias Monitoring system is a Web Based application built on
@@ -98,47 +99,25 @@ I have a strong passion for Computer Security and Applied Security Research. As 
 
 # Technical and Personal skills
 
--   **Web Platforms:** Proficient in: Python, HTML, CSS\
-    Working Experience in Frameworks, Apache Cordova and Spark.
+-   **Programming** Java 8, JavaScript, HTML, XML, Typescript
+-   **Frameworks** Spring Boot, Hibernate, JPA, jQuery, ExtJS5.0, Angular, React, Node JS
+-   **DevOps**  Microsoft Azure, Docker, Kubernetes, Jenkins, Bash scripting
+-   **Databases** MySQL, PostgreSQL, Orient DB
+-   **Tools** Jira, Git, Grafana, Kibana, JMeter
+-   **Languages** English, Malayalam, Hindi
 
--   **Technologies:** Virtualization, Docker, Parallel Processing, GIT,
-    MS Office.
-
--   **Pentesting:** Burpsuite Pro, HP Webinspect, IBM Appscan, SoapUI,
-    NMap, SQLMap, Postman, NetSparker, Coverity, BlackDuck
-
--   **Security Frameworks:** Metasploit, Frida, Objection, AFL, Scapy,
-    Cotopaxi.
-
-# Professional Memberships and Positions Mentored
-
--   **Member** Null.co.in & OWASP Community, Bengaluru
-
--   **Volunteer** Yet Another Cybersecurity (YAS), Kerala, India
-
--   **Member** Association for Computing Machinery (ACM), FISAT and
-    Chennai
-
--   **Team Member** Google Developer Group, Kochi
-
--   **Team Member** KochiPython , Team of Python Development Enthusiasts
-
--   **Research Member** CHPC , Centre for High Performance Computing,
-    FISAT
-
--   **ICT Student Champion** ICT Academy of Kerala, FISAT
 
 # Interests and extra-curricular activity
 
--   I am a vivid and passionate web designer and won various web design
-    contests. I have also been a member of the core team responsible for
-    various Techno-Cultural events.
+-  RECEIVED 3RD RUNNER UP IN SAS INTERNAL BUG BOUNTY
 
--   I was also a member of a photography club and contributed
-    significantly towards it's success.
+-  WINNER OF RISING STAR AWARD AND TCS INNOVATION PRIDE AWARD FOR EXCELLENT PERFORMANCE (TCS)
 
--   I was also a Speaker to a group of technology enthusiasts and took a
-    session on emerging web technologies and it's vulnerabilities.
+-  MEMBER OF LEADERSHIP TEAM (ACM Professional Chapter Pune, India)
+
+-  SPEAKER FOR WEB DESIGN AND CAREER ADVICE WORKSHOPHackathons India (Federal Institute of Science and Technology Kerala, India)
+
+-  FINALISTS IN MORE THAN 5+ HACKATHONS HELD ACROSS INDIA.
 
 # References
 
