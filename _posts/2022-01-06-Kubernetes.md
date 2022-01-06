@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Deploying an internal container registry using Digitalocean Kubernetes and Harbor"
+title:  "Deploying an internal container registry"
 description: Using Digital Ocean Kubernetes Platform to Build an Internal Container Registry 
 date:   2021-01-06 10:03:36 +0530
 categories: containers
