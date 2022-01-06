@@ -10,28 +10,43 @@ permalink: /about/
 
 
 Hi, I am Vaishakh. 
+
 Full-stack developer with 4+ years of hands-on experience designing, developing, and implementing applications and solutions using a range of technologies and programming languages. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack developer.
 # Current Employment
 
 -   SAS Research and Development
     • Designed a single-page application following Agile practices.
+    
     • Worked on creation of custom Docker container images and integration of Spring boot application.
+    
     • Identified multiple security issues during the Bug Bounty program.
+    
     • Developed an Angular 6 application with HTML5, SASS , and Typescript.
+    
     • Used Protractor to perform E2E testing for Angular Application
+    
     • Setup Continuous Integration with Jenkins to set up smooth workflows.
+    
     • Programmed data transformer for converting data and fed into Queue using Camel.
+    
     • Extensively used MVC, Factory, Delegate , and Singleton design patterns.
+    
     • Implemented Cucumber for behavioral testing of application
 
 
 -   Tata Consultancy Services R&D
     • Primarily responsible for the development and maintenance of a Java-based Web application.
+    
     • Prepare documentation and work with the domain team for production deployment and data migration.
+    
     • Authored feature approach and usage documentation and Created Sprint Plans.
+    
     • Redesigned data migration strategies to perform the migration.
-    • Introduced batch processing to optimize memory utilization in the existing implementation.
+    
+    • Introduced batch processing to optimize memory utilization in the existing implementation
+    
     • Devised and Implemented cloud migration strategy for Container services in Azure cloud and AWS
+    
 
 
 # Education
