@@ -1,8 +1,8 @@
-title: Mohammed Farhan | Cybersecurity Blog
-author: Mohammed Farhan
-email: mohammedfarhan.kn@gmail.com
+title: Vaisakh S | Technical Blog
+author: Vaisakh S
+email: vaishakhsasikumar@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  A Cybersecurity Professional and Developer who builds and breaks things. Checkout my blog and writeups for more information
+  A Full Stack Developer with experience in the Manufacturing and Financial Sector. 
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,8 +12,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Mohammed Farhan
-  tagline: Developer. Cybersecurity Consultant
+  title: Vaisakh S
+  tagline: Full Stack Developer.
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
@@ -21,9 +21,9 @@ texture:
 
  # generate social links in footer
   social_links:
-    twitter: farhankn
-    github:  farhankn
-    linkedIn: in/farhankn
+    twitter: VSK_cool
+    github:  vaisakhsasikumar
+    linkedIn: in/vaisakh-s
     rss: rss
  
 
